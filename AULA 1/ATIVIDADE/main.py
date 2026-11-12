@@ -1,0 +1,6 @@
+#ATIVIDADE
+
+print ('COMEÇANDO\n')
+print ('DESENVOLVIMENTO DE SISTEMAS\n')
+print ('SESI SENAI\n')
+print ('ENCERRANDO')
